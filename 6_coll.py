@@ -64,3 +64,8 @@ k0 = list(dict_1.keys())
 v0 = list(dict_1.values())
 
 print(v0)
+
+
+# домашка - остальные методы словаря
+# множества (set)
+# 
