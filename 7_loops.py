@@ -93,3 +93,5 @@ print(dict_0)
 #кортежи
 for i in dict_0.items():
     print(i)  
+
+    
